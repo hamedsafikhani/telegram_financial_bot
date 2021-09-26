@@ -2,7 +2,7 @@
 from pyrogram import Client
 import time
 
-api_id = ----- # from telegram PI
+api_id = ----- # from telegram API
 api_hash = ""
 import jdatetime
 import psycopg2
